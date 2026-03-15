@@ -1,0 +1,173 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2821
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;\f2\fnil\fcharset0 LucidaGrande-Bold;
+}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red109\green109\blue109;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c50196\c50196\c50196;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{circle\}}{\leveltext\leveltemplateid102\'01\uc0\u9702 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid301\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{circle\}}{\leveltext\leveltemplateid302\'01\uc0\u9702 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid4}
+{\list\listtemplateid5\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid401\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid5}
+{\list\listtemplateid6\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid501\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid6}
+{\list\listtemplateid7\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid601\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid7}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}{\listoverride\listid6\listoverridecount0\ls6}{\listoverride\listid7\listoverridecount0\ls7}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww17080\viewh12440\viewkind0
+\deftab720
+\pard\pardeftab720\sl20\slleading20\partightenfactor0
+
+\f0\b\fs28 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Hospital Stay Patterns\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl20\slleading20\partightenfactor0
+\ls1\ilvl0
+\f1\b0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 The 
+\f0\b average hospital stay was 15 days
+\f1\b0 , indicating moderately long inpatient treatment durations across the dataset.\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 The 
+\f0\b longest stays reached 30 days
+\f1\b0 , suggesting potential outlier cases involving more complex or prolonged treatment.\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Admissions varied over time, with the 
+\f0\b highest number occurring in August 2020
+\f1\b0  and the 
+\f0\b lowest in May 2019
+\f1\b0 , indicating potential seasonal or operational variation in hospital demand.\
+\pard\pardeftab720\sl20\slleading20\partightenfactor0
+\cf3 \strokec3 \
+\pard\pardeftab720\sl20\slleading20\partightenfactor0
+
+\f0\b\fs28 \cf0 \strokec2 Gender and Medical Conditions\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl20\slleading20\partightenfactor0
+\ls2\ilvl0
+\f1\b0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 The 
+\f0\b most common condition among female patients was arthritis
+\f1\b0 , while 
+\f0\b diabetes was the most common condition among male patients
+\f1\b0 .\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Overall, the 
+\f0\b top three conditions differed slightly by gender
+\f1\b0 :\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl20\slleading20\partightenfactor0
+\ls2\ilvl1
+\f0\b \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	
+\f2 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Female:
+\f1\b0  Arthritis, Diabetes, Obesity\
+\ls2\ilvl1
+\f0\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	
+\f2 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Male:
+\f1\b0  Diabetes, Hypertension, Asthma\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl20\slleading20\partightenfactor0
+\ls2\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Despite these differences, 
+\f0\b overall admission volumes were approximately equal between male and female patients
+\f1\b0 .\
+\pard\pardeftab720\sl20\slleading20\partightenfactor0
+\cf3 \strokec3 \
+\pard\pardeftab720\sl20\slleading20\partightenfactor0
+
+\f0\b\fs28 \cf0 \strokec2 Medication Patterns\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl20\slleading20\partightenfactor0
+\ls3\ilvl0
+\f1\b0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Analysis of prescriptions by condition showed 
+\f0\b no significant gender imbalance in medication prescribing
+\f1\b0 .\
+\ls3\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 The proportion of female prescriptions across conditions was generally consistent, suggesting 
+\f0\b similar treatment patterns between genders
+\f1\b0 .\
+\pard\pardeftab720\sl20\slleading20\partightenfactor0
+\cf3 \strokec3 \
+\pard\pardeftab720\sl20\slleading20\partightenfactor0
+
+\f0\b\fs28 \cf0 \strokec2 Hospital-Level Analysis\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl20\slleading20\partightenfactor0
+\ls4\ilvl0
+\f1\b0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 When analysing admissions by hospital, 
+\f0\b Smith hospital recorded the highest number of admissions
+\f1\b0 , while 
+\f0\b Abbott recorded the lowest
+\f1\b0 .\
+\ls4\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 At Smith hospital:\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl20\slleading20\partightenfactor0
+\ls4\ilvl1
+\f0\b \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	
+\f2 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Arthritis had the highest average cost per day (~4654)
+\f1\b0  despite having a similar average stay length to other conditions.\
+\ls4\ilvl1
+\f0\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	
+\f2 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Average stay durations across major conditions were consistent (~15 days)
+\f1\b0 .\
+\pard\pardeftab720\sl20\slleading20\partightenfactor0
+\cf3 \strokec3 \
+\pard\pardeftab720\sl20\slleading20\partightenfactor0
+
+\f0\b\fs28 \cf0 \strokec2 Admission Type Trends\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl20\slleading20\partightenfactor0
+\ls5\ilvl0
+\f1\b0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Different conditions appeared across 
+\f0\b urgent, emergency, and elective admissions
+\f1\b0 , with some variation in frequency by condition.\
+\ls5\ilvl0
+\f0\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Obesity had the highest number of urgent admissions
+\f1\b0 , while 
+\f0\b diabetes appeared most frequently in emergency admissions
+\f1\b0 .\
+\ls5\ilvl0
+\f0\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Arthritis appeared most frequently in elective admissions
+\f1\b0 .\
+\pard\pardeftab720\sl20\slleading20\partightenfactor0
+\cf3 \strokec3 \
+\pard\pardeftab720\sl20\slleading20\partightenfactor0
+
+\f0\b\fs28 \cf0 \strokec2 Test Result Outcomes\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl20\slleading20\partightenfactor0
+\ls6\ilvl0
+\f1\b0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Test results were 
+\f0\b fairly evenly distributed across admission types
+\f1\b0 , with most combinations representing roughly 
+\f0\b 11% of total admissions
+\f1\b0 .\
+\ls6\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Elective admissions produced the 
+\f0\b highest number of abnormal and normal results
+\f1\b0 , while 
+\f0\b emergency admissions produced the lowest counts
+\f1\b0  overall.\
+\pard\pardeftab720\sl20\slleading20\partightenfactor0
+\cf3 \strokec3 \
+\pard\pardeftab720\sl20\slleading20\partightenfactor0
+
+\f0\b\fs28 \cf0 \strokec2 Treatment Cost Patterns\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl20\slleading20\partightenfactor0
+\ls7\ilvl0
+\f1\b0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 High-cost treatments were 
+\f0\b least common across all admission types
+\f1\b0 , suggesting that most hospital stays fall into low or medium cost categories.\
+\ls7\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 The 
+\f0\b average billing amount was ~25,539
+\f1\b0 , while the 
+\f0\b average daily treatment cost was ~3,386
+\f1\b0 , implying that most hospital stays involve 
+\f0\b multiple days of treatment rather than single-day procedures
+\f1\b0 .\
+}
