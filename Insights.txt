@@ -1,0 +1,35 @@
+Hospital Stay Patterns
+	•	The average hospital stay was 15 days, indicating moderately long inpatient treatment durations across the dataset.
+	•	The longest stays reached 30 days, suggesting potential outlier cases involving more complex or prolonged treatment.
+	•	Admissions varied over time, with the highest number occurring in August 2020 and the lowest in May 2019, indicating potential seasonal or operational variation in hospital demand.
+ 
+Gender and Medical Conditions
+	•	The most common condition among female patients was arthritis, while diabetes was the most common condition among male patients.
+	•	Overall, the top three conditions differed slightly by gender:
+	◦	Female: Arthritis, Diabetes, Obesity
+	◦	Male: Diabetes, Hypertension, Asthma
+	•	Despite these differences, overall admission volumes were approximately equal between male and female patients.
+ 
+Medication Patterns
+	•	Analysis of prescriptions by condition showed no significant gender imbalance in medication prescribing.
+	•	The proportion of female prescriptions across conditions was generally consistent, suggesting similar treatment patterns between genders.
+ 
+Hospital-Level Analysis
+	•	When analysing admissions by hospital, Smith hospital recorded the highest number of admissions, while Abbott recorded the lowest.
+	•	At Smith hospital:
+	◦	Arthritis had the highest average cost per day (~4654) despite having a similar average stay length to other conditions.
+	◦	Average stay durations across major conditions were consistent (~15 days).
+ 
+Admission Type Trends
+	•	Different conditions appeared across urgent, emergency, and elective admissions, with some variation in frequency by condition.
+	•	Obesity had the highest number of urgent admissions, while diabetes appeared most frequently in emergency admissions.
+	•	Arthritis appeared most frequently in elective admissions.
+ 
+Test Result Outcomes
+	•	Test results were fairly evenly distributed across admission types, with most combinations representing roughly 11% of total admissions.
+	•	Elective admissions produced the highest number of abnormal and normal results, while emergency admissions produced the lowest counts overall.
+ 
+Treatment Cost Patterns
+	•	High-cost treatments were least common across all admission types, suggesting that most hospital stays fall into low or medium cost categories.
+	•	The average billing amount was ~25,539, while the average daily treatment cost was ~3,386, implying that most hospital stays involve multiple days of treatment rather than single-day procedures.
+ 
