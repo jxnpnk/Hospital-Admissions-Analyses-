@@ -50,10 +50,14 @@ standardised using INITCAP() in BigQuery. Post-clean validation confirmed no nul
 were introduced and distinct hospital count reduced as expected.
 
 ## Repository Structure
-- bigquery_analysis.sql — data cleaning, validation and analytical queries in BigQuery
-- tsql_analysis.sql — BigQuery queries translated to T-SQL for SQL Server
-- tsql_debugging.sql — 8 end-to-end debugging and error handling scenarios
-- hospital_cleaning.py — Python script for hospital name entity resolution
+
+* Hospital_Data Bigquery.sql — data cleaning, validation and analytical queries in BigQuery
+* hospital_admissions.sql — original exploratory analysis queries
+* hospital_admissions_analyses_sqlserver2022.sql — BigQuery queries translated to T-SQL for SQL Server
+* Error_logs.sql — 8 end-to-end debugging and error handling scenarios with central error logging
+* hospital_admissions_cleaning.py — Python script for hospital name entity resolution
+* Insights.txt — key findings and observations from the analysis
+* README.md — project documentation
 
 ## Dataset Link
 https://www.kaggle.com/code/muhammadfurqan0/unlocking-healthcare-trends-data-analysis/input
